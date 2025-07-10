@@ -70,7 +70,9 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-<p>&copy; 2024 ANMED Produtos Médicos. Todos os direitos reservados. | Desenvolvido por <a href="https://github.com/amaro-netto">AMARO NETTO</a> </p>      </div>
+          <p>&copy; 2024 ANMED Produtos Médicos. Todos os direitos reservados. | Desenvolvido por AMARO NETTO </p>
+        </div>
+      </div>
     </footer>
   );
 };
