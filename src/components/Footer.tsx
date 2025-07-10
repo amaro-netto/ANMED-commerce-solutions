@@ -10,7 +10,7 @@ const Footer = () => {
           {/* Company Info */}
           <div className="space-y-4">
             <img 
-              src="/lovable-uploads/0f4bfa84-3607-4685-abd1-294709e5d076.png" 
+              src="/image/logowhite.png" 
               alt="ANMED Produtos Médicos" 
               className="h-12 filter brightness-0 invert"
             />
