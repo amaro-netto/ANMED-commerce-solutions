@@ -1,7 +1,6 @@
-
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Droplets, Spray, ShieldCheck, Thermometer, Heart, Stethoscope } from 'lucide-react';
+import { Droplets, Sprout, ShieldCheck, Thermometer, Heart, Stethoscope } from 'lucide-react';
 
 const categories = [
   {
@@ -14,7 +13,7 @@ const categories = [
   {
     id: 2,
     name: 'Álcool Gel',
-    icon: Spray,
+    icon: Sprout,
     count: 32,
     image: 'https://images.unsplash.com/photo-1584634428108-a5c78d015c66?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80'
   },
