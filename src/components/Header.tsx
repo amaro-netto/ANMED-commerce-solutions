@@ -34,7 +34,7 @@ const Header = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center">
             <img 
-              src="/lovable-uploads/0f4bfa84-3607-4685-abd1-294709e5d076.png" 
+              src="/image/0f4bfa84-3607-4685-abd1-294709e5d076.png" 
               alt="ANMED Produtos Médicos" 
               className="h-12 md:h-16"
             />
