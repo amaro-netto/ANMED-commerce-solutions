@@ -10,6 +10,7 @@ Este é um projeto de e-commerce focado em produtos médicos e de limpeza hospit
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+![Status: Em desenvolvimento](https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow?style=for-the-badge)
 [![GitHub last commit](https://img.shields.io/github/last-commit/amaro-netto/ANMED-commerce-solutions?style=for-the-badge)](https://github.com/amaro-netto/ANMED-commerce-solutions)
 
 ## Funcionalidades
