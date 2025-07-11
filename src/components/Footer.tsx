@@ -55,7 +55,7 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center gap-3">
                 <Phone className="h-5 w-5 text-cyan-500" />
-                <span className="text-gray-300">(11) 99999-9999</span>
+                <span className="text-gray-300">(21) 97613-122</span>
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="h-5 w-5 text-cyan-500" />
@@ -63,14 +63,14 @@ const Footer = () => {
               </div>
               <div className="flex items-center gap-3">
                 <MapPin className="h-5 w-5 text-cyan-500" />
-                <span className="text-gray-300">São Paulo, SP - Brasil</span>
+                <span className="text-gray-300">Duque de Caxias, RJ - Brasil</span>
               </div>
             </div>
           </div>
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; 2025 ANMED Produtos Médicos. Todos os direitos reservados. | Desenvolvido por <a href="https://github.com/amaro-netto">Amaro Netto</a></p>
+          <p>&copy; 2025 ANMED Produtos Médicos.| Desenvolvido por <a href="https://github.com/amaro-netto">Amaro Netto. Todos os direitos reservados. </a></p>
         </div>
       </div>
     </footer>

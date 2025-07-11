@@ -37,7 +37,7 @@ const Hero = () => {
           <div className="relative">
             <div className="bg-white rounded-2xl shadow-2xl p-8">
               <img 
-                src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" 
+                src="/image/imagen001.png" 
                 alt="Produtos de limpeza hospitalar" 
                 className="w-full h-64 object-cover rounded-lg"
               />
